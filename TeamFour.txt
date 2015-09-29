@@ -1,0 +1,8 @@
+Benji	|	Ciara	|	Ruairi	|	Linzi	|	Jude	|	Ian		|	Johnny
+
+
+--on wall--
+kandan boards
+story boards: post its / what each story entails / allows group members to start annotating each story - take ownership for certain stories
+architectural drill down diagrams: UI 3 screens / plan whats in each screen / show database layer / what tables make up database / 
+								   to make process more efficient
