@@ -1,0 +1,14 @@
+http://finance.yahoo.com/d/quotes.csv?s=MSFT+AAPL&f=nab&e=.csv
+				      ^ 	  ^     ^
+				      |		  |     |
+				Ticker Symbol  	Stats Extension
+
+Stats reference URL: http://www.jarloo.com/yahoo_finance/
+
+ a 	a5 	b      b6
+Ask  Ask Size  Bid  Bid Size
+					      
+
+removed - &f=a0sa5sb0sb6
+
+			for(int ind = 0; ind < capture; ind++)
